@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-gcc     CMakeFiles/jikong_test_uart.dir/jikong_test_uart.c.o  -o ../../../bin/jikong_test_uart -rdynamic -L/home/flx/developer/workspace_c/ccc_tool/lib 

@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-gcc     CMakeFiles/jikong_test_serial.dir/jikong_test_serial.c.o CMakeFiles/jikong_test_serial.dir/devc_fpga_serial.c.o CMakeFiles/jikong_test_serial.dir/thread_wrapper.c.o  -o ../../../bin/jikong_test_serial -rdynamic -L/home/flx/developer/workspace_c/ccc_tool/lib -ldl -lpthread -Wl,-rpath,/home/flx/developer/workspace_c/ccc_tool/lib: 

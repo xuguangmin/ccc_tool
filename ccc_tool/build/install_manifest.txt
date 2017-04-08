@@ -1,0 +1,2 @@
+/home/flx/developer/workspace_c/ccc_tool/release/jikong_test_uart
+/home/flx/developer/workspace_c/ccc_tool/release/jikong_test_serial

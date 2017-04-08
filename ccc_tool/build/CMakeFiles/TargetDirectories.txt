@@ -1,0 +1,2 @@
+/home/flx/developer/workspace_c/ccc_tool/build/src/serial/CMakeFiles/jikong_test_serial.dir
+/home/flx/developer/workspace_c/ccc_tool/build/src/uart/CMakeFiles/jikong_test_uart.dir
